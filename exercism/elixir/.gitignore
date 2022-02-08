@@ -1,3 +1,5 @@
 _build
 
 .exercism
+
+.elixir_ls
